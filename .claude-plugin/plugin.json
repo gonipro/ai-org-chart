@@ -1,0 +1,1 @@
+{ "name": "ai-org-chart", "version": "0.1.0", "description": "AI 미니회사 조직도 만들기: 클로드 창(터미널)들을 팀처럼 나누는 법 (Build an org chart for your AI team)", "author": { "name": "GoniPro", "url": "https://gonipro.app" }, "license": "MIT", "skills": "./skills" }
